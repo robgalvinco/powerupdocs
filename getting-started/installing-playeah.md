@@ -1,0 +1,47 @@
+---
+description: >-
+  In this guide we will walk through how to install the plaYEAH! PowerUp into
+  your Thinkific Site. Thinkific likes to call them "Apps"
+---
+
+# Installing plaYEAH!
+
+### Before Installation:  Create an account and purchase plaYEAH!
+
+plaYEAH! **does not require a monthly subscription.** We do however require you to create an account on [our Thinkific site ](https://powerups.thinkific.com/)and purchase plaYEAH before you can install it into any site. Plus, you will also be able to quickly access any other PowerUp that you have purchased.
+
+{% hint style="warning" %}
+After your purchase you will be able to install the plaYEAH! app from the [member portal](https://powerups.thinkific.com/pages/playeah-activation).  Depending on the license that was purchased, you may be able to install this app on many Thinkific sites or just one site.
+{% endhint %}
+
+![](<../.gitbook/assets/Screen Shot 2021-02-10 at 6.18.43 PM.png>)
+
+{% hint style="info" %}
+Be sure to have your Thinkific Site Admin login details handy in order to install plaYEAH! into your site.
+{% endhint %}
+
+### STEP 1: Login as a Site Admin & Locate your Thinkific Subdomain
+
+![](<../.gitbook/assets/Screen-Shot-2021-02-10-at-5-50-42-PM-png-2299×1176- (1).png>)
+
+### STEP 2: Enter your Subdomain on the Activation Page
+
+Once you have your subdomain for the Thinkific site you wish to install plaYEAH! on, head over to the [activation page on the member portal.](https://powerups.thinkific.com/pages/playeah-activation)
+
+![](<../.gitbook/assets/Screen Shot 2021-02-10 at 7.37.49 PM.png>)
+
+{% hint style="info" %}
+During the **purchase process you will already be directed to this page automatically after purchase**. You should also be already logged in to the member portal at this time, but in case you need to revisit the page, or if you were rudely interrupted :triumph: during the process, you can restart the process by just logging back into the [member portal](https://powerups.thinkific.com/enrollments).
+{% endhint %}
+
+### STEP 3: Accept the App Installation
+
+After entering your subdomain, you will see a screen that looks like below. Be sure to click on the **ACCEPT & INSTALL** button. :point\_down: It's that big dark blue-ish / purple-ish button at the bottom of the page
+
+![](<../.gitbook/assets/Screen Shot 2021-02-10 at 7.41.57 PM.png>)
+
+{% hint style="warning" %}
+Unlike other "Thinkific Apps", plaYEAH! does not actually use any API's or access any of your Thinkific site data. Currently Thinkific's app screen that you see above is the same for all applications. The clause noted "Access and modify your Thinkific data" is applied to all Apps by Thinkific, however plaYEAH! does not use any such requests.&#x20;
+{% endhint %}
+
+###
