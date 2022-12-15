@@ -27,6 +27,7 @@
     * [Categories (Icons)](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/categories-icons.md)
     * [Categories (Images)](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/categories-images.md)
     * [Course Tabs](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/course-tabs.md)
+    * [Curriculum](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/curriculum.md)
     * [CTA](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/cta.md)
     * [CTA Countdown](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/cta-countdown.md)
     * [CTA Side Image](site-page-templates/the-captain-site-page-template-collection/build-your-own-sections/cta-side-image.md)
