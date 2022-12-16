@@ -47,6 +47,7 @@
   * [PS-031 Colored Numbered Style 2](the-snips/content-snips/ps-031-colored-numbered-style-2.md)
   * [PS-032 Colored Numbered Style 3](the-snips/content-snips/ps-032-colored-numbered-style-3.md)
   * [PS-033 Emoji Bullet List](the-snips/content-snips/ps-033-emoji-bullet-list.md)
+  * [PS-034 Animated Numbered List](the-snips/content-snips/ps-034-animated-numbered-list.md)
 * [Effects Snips](the-snips/effects-snips/README.md)
   * [ES-001 Confetti Cannon](the-snips/effects-snips/es-001-confetti-cannon.md)
   * [ES-002 Emoji Cannon](the-snips/effects-snips/es-002-emoji-cannon.md)
