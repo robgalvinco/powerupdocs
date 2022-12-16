@@ -1,10 +1,14 @@
-# PS-034 Animated Numbered List
+---
+description: This Player Snip wraps the numbers around the content like a snake
+---
 
-<figure><img src="../../.gitbook/assets/Player Snips Thumbs (3).jpg" alt=""><figcaption></figcaption></figure>
+# PS-035 Snake Numbered List
+
+<figure><img src="../../.gitbook/assets/Player Snips Thumbs (4).jpg" alt=""><figcaption></figcaption></figure>
 
 **Adding this Player Snip**
 
-* [ ] On your [`My Player Snips Page`](../../how-to-guides.md#how-to-create-a-my-snips-page) add the **`PS-034`** section to your page
+* [ ] On your [`My Player Snips Page`](../../how-to-guides.md#how-to-create-a-my-snips-page) add the **`PS-035`** section to your page
 * [ ] Modify the list by updating the **`Block Item settings`**. Add, update, delete or re-order items in the list by using the Block settings.
 * [ ] Optionally open the section's **`Color`** settings group and change the _color settings_
 * [ ] Hover over the section and click the **`Copy Player Snip`** button
