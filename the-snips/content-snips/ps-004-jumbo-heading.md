@@ -4,12 +4,12 @@ description: >-
   to start a text lesson
 ---
 
-# Jumbo Heading
+# PS-004 Jumbo Heading
 
 <figure><img src="../../.gitbook/assets/164072custom_site_themesidaQy7aH.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-We recommend you stack your Player Snips for this one and add the extended with options either the [100% width](../layout-snips/100-content-width.md) or [80% width](../layout-snips/80-content-width.md)
+We recommend you stack your Player Snips for this one and add the extended with options either the [100% width](../layout-snips/cl-001-100-content-width.md) or [80% width](../layout-snips/cl-002-80-content-width.md)
 {% endhint %}
 
 **Adding this Player Snip**
