@@ -45,6 +45,7 @@
   * [PS-029 Dropdown List of Links](the-snips/content-snips/ps-029-dropdown-list-of-links.md)
   * [PS-030 Colored Numbered Style 1](the-snips/content-snips/ps-030-colored-numbered-style-1.md)
   * [PS-031 Colored Numbered Style 2](the-snips/content-snips/ps-031-colored-numbered-style-2.md)
+  * [PS-032 Colored Numbered Style 3](the-snips/content-snips/ps-032-colored-numbered-style-3.md)
 * [Effects Snips](the-snips/effects-snips/README.md)
   * [ES-001 Confetti Cannon](the-snips/effects-snips/es-001-confetti-cannon.md)
   * [ES-002 Emoji Cannon](the-snips/effects-snips/es-002-emoji-cannon.md)
