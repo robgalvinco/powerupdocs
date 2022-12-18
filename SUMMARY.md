@@ -50,6 +50,7 @@
   * [PS-034 Animated Numbered List](the-snips/content-snips/ps-034-animated-numbered-list.md)
   * [PS-035 Snake Numbered List](the-snips/content-snips/ps-035-snake-numbered-list.md)
   * [PS-036 Flip Cards (text)](the-snips/content-snips/ps-036-flip-cards-text.md)
+  * [PS-037 Flip Cards (Image)](the-snips/content-snips/ps-037-flip-cards-image.md)
 * [Effects Snips](the-snips/effects-snips/README.md)
   * [ES-001 Confetti Cannon](the-snips/effects-snips/es-001-confetti-cannon.md)
   * [ES-002 Emoji Cannon](the-snips/effects-snips/es-002-emoji-cannon.md)
