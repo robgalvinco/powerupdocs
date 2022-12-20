@@ -57,6 +57,7 @@
   * [ES-001 Confetti Cannon](the-snips/effects-snips/es-001-confetti-cannon.md)
   * [ES-002 Emoji Cannon](the-snips/effects-snips/es-002-emoji-cannon.md)
   * [ES-003 Sound Effects](the-snips/effects-snips/es-003-sound-effects.md)
+  * [ES-004 Link Effects](the-snips/effects-snips/es-004-link-effects.md)
 * [Popup Snips](the-snips/popup-snips/README.md)
   * [PU-001 Typeform](the-snips/popup-snips/pu-001-typeform.md)
   * [PU-002 Emoji Bar](the-snips/popup-snips/pu-002-emoji-bar.md)
