@@ -1,5 +1,25 @@
 # 🔥 Latest Updates
 
+## Dec 18: New Flip Cards
+
+We just added four new Player Snips to give you a way to put some interaction into your lessons
+
+{% content-ref url="the-snips/content-snips/ps-036-flip-cards-text.md" %}
+[ps-036-flip-cards-text.md](the-snips/content-snips/ps-036-flip-cards-text.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-snips/content-snips/ps-037-flip-cards-image.md" %}
+[ps-037-flip-cards-image.md](the-snips/content-snips/ps-037-flip-cards-image.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-snips/content-snips/ps-038-flip-hover-cards-cta.md" %}
+[ps-038-flip-hover-cards-cta.md](the-snips/content-snips/ps-038-flip-hover-cards-cta.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-snips/content-snips/ps-039-timeline-cards.md" %}
+[ps-039-timeline-cards.md](the-snips/content-snips/ps-039-timeline-cards.md)
+{% endcontent-ref %}
+
 ## Dec 16: New Numbered List options
 
 {% embed url="https://www.loom.com/share/563c18ac718f448bae0e9d3e819ad082" %}
