@@ -1,5 +1,31 @@
 # ❓ Frequently Asked Questions
 
+### How to I customize the font for the MegaNav?
+
+For this you will need to know a bit of CSS. Modify and place this code into your Site Foote Code Settings:\
+
+
+```
+<style>
+/* Top level menu put in whatever CSS you want */
+.megapow .navbar .navbar-nav .nav-link{
+   text-transform: uppercase; /* Makes the text uppercase */
+    font-size: 18px; /* Makes font size bigger */
+    font-weight: 700; /* Makes the font bolder */
+}
+
+/* Sub menu heading put in whatever CSS you want */
+.megapow header nav.navbar .dropdown-menu.megamenu-content li.dropdown-header{
+   
+}
+
+/* Sub Menu Links put in whatever CSS you want */
+.megapow header .dropdown-menu.megamenu-content li a{
+    
+}
+</style>
+```
+
 ### How do I use FontAwesome icons with MegaNav?
 
 * [ ] You will need to first put FontAwesome library code into your Site Footer Code settings
