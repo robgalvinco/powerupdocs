@@ -2,7 +2,7 @@
 
 ### How to I customize the font for the MegaNav?
 
-For this you will need to know a bit of CSS. Modify and place this code into your Site Foote Code Settings:\
+For this you will need to know a [bit of CSS](https://www.geeksforgeeks.org/css-text-formatting/). Modify and place this code into your Site Foote Code Settings (https://yoursite.thinkific.com/manage/settings#tab-code-analytics):\
 
 
 ```
