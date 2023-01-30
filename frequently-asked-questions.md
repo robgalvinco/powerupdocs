@@ -1,5 +1,20 @@
 # ❓ Frequently Asked Questions
 
+### My hamburger menu is not appearing on mobile
+
+This usually happens when the background of the navigation is white and there is a "white on white" problem. Add this code snippet to your Site Footer Code settings and change the color accordingly
+
+```
+<style>
+.megapow .navbar .navbar-toggler-line {
+    background-color: #FF0089 !important;
+}
+.megapow header .navbar .show .navbar-nav .nav-link, .megapow header .navbar .show .navbar-nav .inner-link, .megapow header .navbar .show .navbar-nav .dropdown-toggle, .megapow header .navbar .show .nav-item.dropdown.simple-dropdown .dropdown-menu>.dropdown>a {
+    color: #FF0089 !important;
+}
+</style>
+```
+
 ### How to I customize the font for the MegaNav?
 
 For this you will need to know a [bit of CSS](https://www.geeksforgeeks.org/css-text-formatting/). Modify and place this code into your Site Foote Code Settings (https://yoursite.thinkific.com/manage/settings#tab-code-analytics):\
