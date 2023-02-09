@@ -8,7 +8,6 @@
 
 ## 💥Super Power Settings
 
-* [Restricted Site](super-power-settings/restricted-site.md)
 * [Magic Sign Up Fields](super-power-settings/magic-sign-up-fields.md)
 * [All courses page Hide Stuff](super-power-settings/all-courses-page-hide-stuff.md)
 * [Banner (course) Smart CTA](super-power-settings/banner-course-smart-cta.md)
@@ -28,6 +27,7 @@
 * [Redirect (Course Player)](super-power-settings/redirect-course-player.md)
 * [Redirect Timer](super-power-settings/redirect-timer.md)
 * [Redirect Zero Enrollments](super-power-settings/redirect-zero-enrollments.md)
+* [Restricted Site](super-power-settings/restricted-site.md)
 * [Sign In Heading](super-power-settings/sign-in-heading.md)
 * [Swap Logo](super-power-settings/swap-logo.md)
 * [Expanded Icon Library 7000+](super-power-settings/expanded-icon-library-7000+.md)
