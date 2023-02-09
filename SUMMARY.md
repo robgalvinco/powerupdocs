@@ -8,6 +8,7 @@
 
 ## 💥Super Power Settings
 
+* [Restricted Site](super-power-settings/restricted-site.md)
 * [Magic Sign Up Fields](super-power-settings/magic-sign-up-fields.md)
 * [All courses page Hide Stuff](super-power-settings/all-courses-page-hide-stuff.md)
 * [Banner (course) Smart CTA](super-power-settings/banner-course-smart-cta.md)
