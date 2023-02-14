@@ -53,6 +53,7 @@
   * [PS-037 Flip Cards (Image)](the-snips/content-snips/ps-037-flip-cards-image.md)
   * [PS-038 Flip Hover Cards (CTA)](the-snips/content-snips/ps-038-flip-hover-cards-cta.md)
   * [PS-039 Timeline Cards](the-snips/content-snips/ps-039-timeline-cards.md)
+  * [PS-040](the-snips/content-snips/ps-040.md)
 * [Effects Snips](the-snips/effects-snips/README.md)
   * [ES-001 Confetti Cannon](the-snips/effects-snips/es-001-confetti-cannon.md)
   * [ES-002 Emoji Cannon](the-snips/effects-snips/es-002-emoji-cannon.md)
