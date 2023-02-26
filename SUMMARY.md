@@ -55,6 +55,7 @@
   * [PS-039 Timeline Cards](the-snips/content-snips/ps-039-timeline-cards.md)
   * [PS-040 Expand & Collapse Cards](the-snips/content-snips/ps-040-expand-and-collapse-cards.md)
   * [PS-041 Expand & Collapse Cards 2](the-snips/content-snips/ps-041-expand-and-collapse-cards-2.md)
+  * [PS-042 Banner With Background Image](the-snips/content-snips/ps-042-banner-with-background-image.md)
 * [Effects Snips](the-snips/effects-snips/README.md)
   * [ES-001 Confetti Cannon](the-snips/effects-snips/es-001-confetti-cannon.md)
   * [ES-002 Emoji Cannon](the-snips/effects-snips/es-002-emoji-cannon.md)
