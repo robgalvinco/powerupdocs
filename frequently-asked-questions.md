@@ -30,7 +30,8 @@ For this you will need to know a [bit of CSS](https://www.geeksforgeeks.org/css-
 }
 
 /* Sub menu heading put in whatever CSS you want */
-.megapow header nav.navbar .dropdown-menu.megamenu-content li.dropdown-header{
+.megapow header nav.navbar .dropdown-menu.megamenu-content li.dropdown-header,
+.megapow .simple-dropdown .dropdown-menu .dropdown a{
    
 }
 
