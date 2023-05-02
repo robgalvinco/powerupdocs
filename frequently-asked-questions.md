@@ -1,5 +1,11 @@
 # ❓ Frequently Asked Questions
 
+### There is some weird scrolling behavior...
+
+This is usually because you have Thinkific's default Header section enabled for either Transparent and/or Sticky Navigation. Since Thnkific thinks you are still using their navigation header, it may cause problems with positioning and "fighting" with MegaNav code. So, since we are not using the Thinkific header, just make sure to change the settings to **Solid for the Background setting** and **uncheck the box Sticky navigation checkbox**
+
+<figure><img src=".gitbook/assets/Site-Builder-Thinkific (33).png" alt=""><figcaption></figcaption></figure>
+
 ### My hamburger menu is not appearing on mobile
 
 This usually happens when the background of the navigation is white and there is a "white on white" problem. Add this code snippet to your Site Footer Code settings and change the color accordingly
