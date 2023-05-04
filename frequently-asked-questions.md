@@ -1,5 +1,21 @@
 # ❓ Frequently Asked Questions
 
+### My logo is too small.
+
+This usually happens when your logo is "wide" and by default we leave a lot of room for many links (because that is what a "meganav" is usally about. So you can give this code snippet a try to increase the size of your logo (Place this in your Site Footer Code settings):
+
+```
+<style>
+@media (min-width: 992px){
+    .megapow .nav-header-container .col-lg-2 {
+        flex: 0 0 auto;
+        width: 33.33333333%;
+    }
+
+}
+</style>
+```
+
 ### There is some weird scrolling behavior...
 
 This is usually because you have Thinkific's default Header section enabled for either Transparent and/or Sticky Navigation. Since Thnkific thinks you are still using their navigation header, it may cause problems with positioning and "fighting" with MegaNav code. So, since we are not using the Thinkific header, just make sure to change the settings to **Solid for the Background setting** and **uncheck the box Sticky navigation checkbox**
