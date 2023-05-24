@@ -128,3 +128,4 @@
 ## 💬 Support & Help
 
 * [Getting Help](support-and-help/getting-help.md)
+* [FAQ](support-and-help/faq.md)
