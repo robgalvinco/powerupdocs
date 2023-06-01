@@ -4,7 +4,7 @@ description: >-
   completed
 ---
 
-# Emoji Cannon
+# ES-002 Emoji Cannon
 
 <figure><img src="../../.gitbook/assets/164072custom_site_themesidlbJ1v4.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,5 +28,9 @@ description: >-
 It is recommended to place this snippet at the bottom of the code view. When not in code view it is invisible and could potentially be removed by accident. Be sure be careful when editing content around this Player Snip
 {% endhint %}
 
-##
+## How to use custom emojis:
 
+{% embed url="https://www.loom.com/share/75caa83a2a374f73850cfd6db2806d37" %}
+
+* [ ] Be sure to select "Custom" for the theme setting and then paste in your own combination of emojis in the setting below
+* [ ] You can copy/paste emojis from your emoji keyboard or use an online tool like: [https://emojikeyboard.io/](https://emojikeyboard.io/) The combinations are entirely up to you!
