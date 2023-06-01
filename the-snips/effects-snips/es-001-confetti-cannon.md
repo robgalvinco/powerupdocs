@@ -2,7 +2,7 @@
 description: ES-001 - Blast some colored confetti when a lesson starts or is completed
 ---
 
-# Confetti Cannon
+# ES-001 Confetti Cannon
 
 <figure><img src="../../.gitbook/assets/164072custom_site_themesidMKUtQm.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -26,6 +26,11 @@ description: ES-001 - Blast some colored confetti when a lesson starts or is com
 It is recommended to place this snippet at the bottom of the code view. When not in code view it is invisible and could potentially be removed by accident. Be sure be careful when editing content around this Player Snip
 {% endhint %}
 
+## How to use custom colors:
 
+{% embed url="https://www.loom.com/share/8fad3a7c76154fbfa82ff8db00f200cb" %}
+
+* [ ] Make sure you have selected Custom for the color theme
+* [ ] Then use the color pickers and choose your colors for all of the 6 color settings. Each color shown in this area will be used. If you want to have more of one color, then use more of the color pickers for that color
 
 ##
