@@ -16,6 +16,18 @@ This usually happens when your logo is "wide" and by default we leave a lot of r
 </style>
 ```
 
+**If that does not help you can also try adding (and play around with the 66px size):**
+
+```
+<style>
+@media (min-width: 992px){
+    .megapow header .navbar .navbar-brand img, .megapow header .sidebar-nav-menu .navbar-brand img, .megapow header.side-menu .logo img {
+        max-height: 66px;
+    }
+}
+</style>
+```
+
 ### There is some weird scrolling behavior...
 
 This is usually because you have Thinkific's default Header section enabled for either Transparent and/or Sticky Navigation. Since Thnkific thinks you are still using their navigation header, it may cause problems with positioning and "fighting" with MegaNav code. So, since we are not using the Thinkific header, just make sure to change the settings to **Solid for the Background setting** and **uncheck the box Sticky navigation checkbox**
