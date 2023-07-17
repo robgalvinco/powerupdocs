@@ -1,5 +1,22 @@
 # 🤔 FAQ's
 
+## How do I use Player Snips on a Site Page?
+
+{% embed url="https://www.loom.com/share/994d687fc5ee46fc9ba6979460692e8e?sid=7ac2d07a-3ef4-4477-b927-7252ed8f6b33" %}
+
+Player Snips by default is intended to help you enhance the "course player" experience. This is what your student sees when they are watching your course. If you want to display Player Snips on a Site Page (ex: home page, a course page, etc), then you need to use this with Site Page Templates and follow these directions:
+
+1. Install [Site Page Templates](https://www.superpowerups.com/pages/site-page-templates) to your site
+2. In one tab of your browser open your "PlayerSnips" library page - this is the page that you have [Player Snips Builder](./#how-to-use-player-snips) added
+3. In another browser, open the Site Page you wish to add the Player Snip to. This could be a course page, home page, or any page you want (not the course lesson page)
+   * [ ] Add Site Page Templates core section to the this page
+   * [ ] Add Player Snips Page Snip section to the page
+   * [ ] From your first tab, click the copy snip button (like you would normally)
+   * [ ] In the second tab, open the Player Snip settings group and paste the code
+   * [ ] You can then use the common Site Page Template settings to control the section background, padding, etc
+
+
+
 ## Why would I want to use Player Snips?
 
 When you are using any text options inside your course curriculum and you want an easier way to make it look better. We have created a library of copy and paste fill-in-the-blank design snippets for you to use.
