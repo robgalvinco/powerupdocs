@@ -1,5 +1,19 @@
 # 🤔 FAQ's
 
+## My Snips do not look the same in the course as they do in the page builder?
+
+This is usually caused by the Player Snips Script not fully being installed. You can try [**reinstalling Player Snips Premium from the main site**](https://www.superpowerups.com/pages/player-snips) or also you can try adding this code to your Site Footer Code settings page.\
+
+
+```
+
+<script src="https://cdn.jsdelivr.net/gh/robgalvinco/player-snippets@latest/js/kapow-snips.js" async></script>
+
+
+```
+
+<figure><img src=".gitbook/assets/Settings-PowerUps-for-Thinkific-Sites-by-Rob-Galvin (8).png" alt=""><figcaption></figcaption></figure>
+
 ## How do I use Player Snips on a Site Page?
 
 {% embed url="https://www.loom.com/share/994d687fc5ee46fc9ba6979460692e8e?sid=7ac2d07a-3ef4-4477-b927-7252ed8f6b33" %}

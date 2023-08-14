@@ -24,9 +24,9 @@ We will use Thinkific's Site Builder to create a custom page that will store all
 
 * [ ] **Add a Player Snip section** to the page by searching for `Player Snips`. To quickly filter the list for certain types of Player Snips, search for the following
   * [ ] [Layout Snips](the-snips/layout-snips/): **`CL-`**&#x20;
-  * [ ] [Effects Snips](the-snips/effects-snips/): ** `ES-`**
-  * [ ] [Popup Snips](the-snips/popup-snips/): ** `PU-`**
-  * [ ] [Content Snips](the-snips/content-snips/): ** `PS-`**
+  * [ ] [Effects Snips](the-snips/effects-snips/): **`ES-`**
+  * [ ] [Popup Snips](the-snips/popup-snips/): **`PU-`**
+  * [ ] [Content Snips](the-snips/content-snips/): **`PS-`**
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-11-20 at 4.58.44 AM.png" alt=""><figcaption></figcaption></figure>
 

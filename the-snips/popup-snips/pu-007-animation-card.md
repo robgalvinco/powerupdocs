@@ -2,7 +2,7 @@
 description: PU-007
 ---
 
-# Animation Card
+# PU-007 Animation Card
 
 **Adding this Player Snip**
 
@@ -34,4 +34,3 @@ description: PU-007
 It is recommended to place this snippet at the bottom of the code view. When not in code view it is invisible and could potentially be removed by accident. Be sure be careful when editing content around this Player Snip
 {% endhint %}
 
-****

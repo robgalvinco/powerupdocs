@@ -2,7 +2,7 @@
 description: PU-005
 ---
 
-# Image Card
+# PU-005 Image Card
 
 **Adding this Player Snip**
 
@@ -34,5 +34,5 @@ description: PU-005
 It is recommended to place this snippet at the bottom of the code view. When not in code view it is invisible and could potentially be removed by accident. Be sure be careful when editing content around this Player Snip
 {% endhint %}
 
-****
+
 
